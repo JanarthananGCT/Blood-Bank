@@ -9,12 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^5.2.1",
+    "google-maps-react": "^2.0.6",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1",
     "next": "12.2.5",
+    "next-auth": "^4.10.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
+    "react-simple-image-slider": "^2.4.1",
+    "react-slideshow-image": "^4.0.5"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.8",
     "eslint": "8.22.0",
-    "eslint-config-next": "12.2.5"
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
