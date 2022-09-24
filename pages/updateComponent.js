@@ -4,7 +4,7 @@ import Head from "next/head";
 import { useRouter } from 'next/router'
 
 
-function hosLogin() {
+function HosLogin() {
   const [Email_Id, setEmail_Id] = useState();
   const [Component_available, setComponent_available] = useState();
   const router = useRouter()
@@ -46,7 +46,7 @@ function hosLogin() {
 
   const OtherMethods = props => (
     <div id="alternativeLogin">
-      <label className="other">Didn't Have Account ?</label>
+      <label className="other">Didnot Have Account ?</label>
 
       <Link href="/createhos"><a><div id="button" className="row">
         <button type="submit" >Create Record</button>
@@ -101,4 +101,4 @@ function hosLogin() {
 
 
 
-export default hosLogin
+export default HosLogin

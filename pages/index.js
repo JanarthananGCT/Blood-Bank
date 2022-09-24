@@ -96,7 +96,7 @@ export default function index() {
         <div className="m1">
           <h1 className="head1">Donate <span id="bld">Blood  :)</span>  !</h1>
           <br />
-          <label className="cont1">Keep Blood Bank shelves full. You may need Blood someday. Someone is needing Blood somewhere. Life of some patients is resting on a fraction of hope in quest of your gift of love.We appreciate your donation! Your contribution will help us change lives – literally! Someone who would have lost their life was spared because you gave us your blood. Someone's quality of life was improved because you gave us your blood.</label>
+          <label className="cont1">Keep Blood Bank shelves full. You may need Blood someday. Someone is needing Blood somewhere. Life of some patients is resting on a fraction of hope in quest of your gift of love.We appreciate your donation! Your contribution will help us change lives  literally! Someone who would have lost their life was spared because you gave us your blood. Someones quality of life was improved because you gave us your blood.</label>
           <br />
           <br />
           <div id="button" className="row btbt">

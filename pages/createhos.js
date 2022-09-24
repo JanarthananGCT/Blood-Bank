@@ -106,7 +106,7 @@ function Signup() {
                 <label>Postal_Code</label>
                 <input type="number" placeholder="Postal code" name="Postal_Code" className="formin" onChange={(e) => setPostal_Code(e.target.value)} />
               </div>
-              <div id="button" class="row">
+              <div id="button" className="row">
                 <button type="submit" name='signup'>Create Record</button>
               </div>
             </form>
